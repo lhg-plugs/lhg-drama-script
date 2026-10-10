@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"短剧剧本专家：题材→分集大纲（每集 3~5 反转）→单集剧本（分场+台词）→钩子专项→时长/台词量确定性检测","name":"lhg-drama-script","source":"./"}]}

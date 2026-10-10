@@ -1,0 +1,1 @@
+{"hooks":{"PreToolUse":[{"hooks":[{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/pre_deliver_check.py\"","timeout":60,"type":"command"}],"matcher":"Bash"}]}}
